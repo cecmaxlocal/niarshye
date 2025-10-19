@@ -21,7 +21,7 @@ Here is a well-structured README.md template for your FreeBasic desktop math pro
 
 ## Project Structure
 
-```
+
 ./niarshye
 ├── src
 │   ├── fog.bi         # Fog composite type declarations
@@ -35,7 +35,7 @@ Here is a well-structured README.md template for your FreeBasic desktop math pro
 │   └── main.bas       # Main program file demonstrating usage
 ├── README.md          # Project overview and documentation
 └── LICENSE            # Project license file
-```
+
 
 ## How to Build and Run
 1. Open Shye IDE.
