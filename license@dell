@@ -1,0 +1,26 @@
+Dell machines typically come with OEM licenses for software such as Windows operating systems. These licenses are legally tied to the specific hardware (the Dell machine itself) and generally cannot be transferred to other computers. The license is activated based on the machine's hardware ID and often stored as a digital entitlement linked to the original hardware. If the motherboard or main hardware changes significantly, reactivation may be required, and sometimes a new license must be purchased.
+
+For Windows Server licenses bundled with Dell servers, the OEM license is attached directly to the server chassis via a Certificate of Authenticity (COA) label, and usage is restricted to that hardware. Downgrade rights are typically allowed, meaning you can use older OS versions if you have appropriate media and keys, but the license remains bound to the Dell hardware.
+
+Dell OEM licenses often allow running Windows Server virtual machines on that hardware under Microsoft’s virtual instance rights, but the license itself cannot be used on non-Dell or different hardware setups due to Microsoft’s OEM licensing terms.
+
+In summary:
+- Dell OEM licenses come bundled with Dell machines and are non-transferable.
+- Activation ties to hardware configuration; significant hardware changes may invalidate license activation.
+- Downgrade rights and virtualization rights exist within the OEM licensing framework.
+- For non-Dell hardware or significant changes, a new license is usually required.
+
+This reflects Microsoft's OEM licensing policies Dell follows, ensuring software is legally tied to the original Dell hardware. Users should consult Dell support or Microsoft Licensing Activation Centers for specific cases such as damaged COA labels or hardware replacements.[1][2][5][7]
+
+If you plan to use Dell hardware or software licenses, it’s important to understand these restrictions to comply with license terms and avoid activation issues.
+
+[1](https://www.dell.com/support/kbdoc/en-us/000175471/windows-server-dell-oem-license)
+[2](https://www.dell.com/support/kbdoc/en-sg/000126935/requirements-for-dell-windows-10-activation)
+[3](https://www.dell.com/support/manuals/en-us/license-manager/dlm_1.7_user_guide/minimum-system-requirements?guid=guid-c3863e3c-2b04-4c4a-8e3f-0c71fff6344d&lang=en-us)
+[4](https://www.dellonline.co.za/products/dell-windows-server-2022-standard-additional-license-2-core-kit-139165)
+[5](https://www.reddit.com/r/Dell/comments/1gctzvy/are_you_allowed_to_use_a_dell_windows_product_key/)
+[6](https://www.dell.com/support/home/en-us?app=licenses)
+[7](https://www.dell.com/en-us/lp/legal/art-software-license-agreements)
+[8](https://www.dell.com/en-us/lp/dt/training-and-certification)
+[9](https://www.dell.com/support/home/pt-br?app=licenses)
+[10](https://www.delltechnologies.com/partner/en-us/partner/partner-registration-guide.htm)

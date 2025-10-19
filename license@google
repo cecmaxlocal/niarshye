@@ -1,0 +1,34 @@
+Google’s licensing landscape includes several types tailored for various software, cloud services, and open source projects:
+
+1. **Google Cloud Licenses:** Google offers different license models for cloud services on Compute Engine, including free licenses, pay-as-you-go licenses, and Bring Your Own License (BYOL) options. BYOL lets customers use pre-existing licenses with Google Cloud resources, often requiring special arrangements like sole-tenant nodes for Windows licenses.[1]
+
+2. **Open Source Licenses:** Google’s open source projects are released under a variety of licenses, including permissive licenses like BSD, Apache 2.0, and GPL variants. Google also handles restricted licenses carefully, ensuring compliance and avoiding mixing restricted-license code in products distributed externally.[2][9]
+
+3. **Google Workspace and SaaS Licensing:** Google Workspace uses subscription-based licenses for individual users, teams, and enterprises, offering named user licenses with various features and access levels.[3]
+
+4. **General Software License Types at Google:** Google’s products may use different software licenses such as:
+   - Individual licenses for single installations
+   - OEM licenses pre-installed on devices
+   - Named user licenses tied to specific users
+   - Volume licenses for multiple users
+   - Trial licenses allowing limited temporary use
+   - Enterprise perpetual and subscription licenses
+   - Open source licenses like the GNU General Public License (GPL)
+   - Concurrent use licenses allowing limited simultaneous use of software.[4]
+
+Google’s licensing approach balances commercial software licensing, cloud service usage models, and open source software distribution, emphasizing compliance, flexibility, and scalability.
+
+In summary, Google licenses vary from cloud usage-based models, strict open source licenses, to commercial SaaS subscriptions, allowing broad adoption across consumer, business, and developer sectors. Users should always consult specific license texts or Google’s official resources for the product or service of interest to understand rights and restrictions fully.[1][2][4]
+
+This broadly covers Google's licensing ecosystem including cloud, open source, and commercial offerings.
+
+[1](https://cloud.google.com/compute/docs/licenses/about)
+[2](https://opensource.google/documentation/reference/thirdparty/licenses)
+[3](https://support.google.com/a/answer/6309862?hl=en)
+[4](https://www.scribd.com/document/893262134/Google-Licensing-Guide-1)
+[5](https://cloud.google.com/terms/looker/legal/customers/licensing/index-20220214)
+[6](https://source.android.com/license)
+[7](https://docs.google.com/file/d/1pksLP2fASI0dsrHVQlm7Gx5p2Vvygv8F/edit)
+[8](https://www.google.com/patents/opnpledge/faq/)
+[9](https://developers.google.com/open-source/licenses/bsd)
+[10](https://firebase.google.com/docs/studio/oss)
