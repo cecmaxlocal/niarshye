@@ -1,11 +1,10 @@
-CXX = fbc
-CXXFLAGS = fbc -c "%f" main.bas 
-LDFLAGS = main.bas
-
+CXX = g++
+CXXFLAGS = -Wall -Werror -Wextra -pedantic -std=c++17 -g main.cpp
+LDFLAGS =  main.cpp
 
 SRC = 
 OBJ = $(SRC:.cc=.o)
-EXEC = ./%e
+EXEC = niarshye
 
 all: $(EXEC)
 
